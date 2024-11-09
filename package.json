@@ -1,0 +1,19 @@
+{
+  "name": "war-of-colours",
+  "version": "1.0.0",
+  "description": "A hexagonal grid-based strategy game with AI and human players.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "pixi.js": "^6.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
