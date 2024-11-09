@@ -1,2 +1,1 @@
-# war-of-colours
-A repository for the War of Colours game
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
